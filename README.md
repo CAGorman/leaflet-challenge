@@ -9,6 +9,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 1.Get your dataset:
   The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit USGS GeoJSON site page 
   and choose a dataset to visualize.
+
 2.Import and visualize the data by doing the following:
     - Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
     - Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and 
